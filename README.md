@@ -47,7 +47,10 @@ purchase?
 8. Which Corporate Customer placed the most number of orders in 2009 – 2012? 
 9. Which consumer customer was the most profitable one? 
 10. Which customer returned items, and what segment do they belong to? 
-11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer. 
+11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer.
+
+ ![ValuableCustomers](https://github.com/user-attachments/assets/5eb9c581-f2da-44a7-9f3c-259588e832e0)
+
 
 ![Smallcustomer](https://github.com/user-attachments/assets/01837163-e6da-4f5b-a970-241d2b8f5c70)
 
