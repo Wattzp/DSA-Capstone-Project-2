@@ -70,7 +70,41 @@ From the findings above, KMS did not allocate shipping resources effectively acc
 
 ## Recommendation
 
+1. **Adopt Real-Time Inventory Tracking**
+   - Implement barcode/RFID systems to monitor stock movement instantly.
+   - Integrate with POS systems so sales automatically update inventory levels.
 
+2. **Data-Driven Forecasting**
+   - Use predictive analytics (machine learning models, regression analysis) to forecast demand based on historical sales, seasonal trends, and promotions.
+   - Leverage external data (holidays, local events, economic indicators) to refine forecasts.
+
+3. **Optimize Stock Replenishment**
+   - Establish reorder points and safety stock levels to prevent stockouts.
+   - Automate purchase orders when thresholds are reached.
+
+4. **Categorize Inventory with ABC Analysis**
+   - Classify items into **A (high-value, low-quantity)**, **B (moderate)**, and **C (low-value, high-quantity)** categories.
+   - Focus tighter controls on A-items while streamlining C-items.
+
+5. **Improve Warehouse Layout & Efficiency**
+   - Use data visualization (like QGIS or heatmaps) to map product movement and optimize shelf placement.
+   - Reduce picking time by placing fast-moving items closer to dispatch areas.
+
+6. **Enhance Supplier Collaboration**
+   - Share demand forecasts with suppliers to improve lead times.
+   - Negotiate flexible contracts for high-demand items to reduce bottlenecks.
+
+7. **Implement Loss Prevention Measures**
+   - Track shrinkage (theft, damage, miscounts) and analyze patterns.
+   - Introduce audit trails and periodic cycle counts to maintain accuracy.
+
+8. **Leverage Cloud-Based KMS Integration**
+   - Store inventory data in a centralized, cloud-based repository for accessibility across branches.
+   - Ensure role-based access for managers, staff, and auditors.
+
+9. **Continuous Training & Monitoring**
+   - Train staff on inventory systems and data entry accuracy.
+   - Monitor KPIs like stock turnover ratio, order fulfillment rate, and carrying costs.
 
 
 
